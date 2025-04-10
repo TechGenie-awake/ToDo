@@ -1,7 +1,7 @@
 # Todo App
 
 ## Project Structure
-<pre> \`\`\` todo/ ├── todo-backend/ └── (frontend files here) \`\`\` </pre>
+<pre> ``` todo/ ├── todo-backend/ └── (frontend files here) ``` </pre>
 
 
 ---
@@ -16,11 +16,11 @@ npm install
 node server.js
 ```
 ### 2. Start the frontend Server
-####In a new terminal
+In a new terminal
 ```bash
 cd todo
 npm install
 npm run dev
 ```
-<pre> \`\`\` Access the App After starting both servers: Frontend: http://localhost:3000 Backend API: http://localhost:4000/api \`\`\` </pre>
+<pre> ``` Access the App After starting both servers: Frontend: http://localhost:3000 Backend API: http://localhost:4000/api ``` </pre>
 
