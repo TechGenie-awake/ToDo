@@ -4,7 +4,7 @@ import axios from "axios";
 import AuthForm from "./components/AuthForm";
 import TodoList from "./components/TodoList";
 
-const API = "https://todo-43kn.onrender.com/";
+const API = "http://localhost:4000/api";
 
 function App() {
   const [view, setView] = useState("login"); // login | signup | todo
