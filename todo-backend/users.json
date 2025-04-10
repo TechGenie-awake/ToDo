@@ -1,0 +1,11 @@
+{
+  "users": {
+    "Gayatri": {
+      "password": "$2b$08$EpbdsZmviBSkCXt03o.lhu0mkyCa9r6U/9fKfUdGfBSgN0Be/Zcgu",
+      "tasks": {
+        "completed": [],
+        "incomplete": []
+      }
+    }
+  }
+}
