@@ -1,10 +1,5 @@
 # Todo App
 
-## Project Structure
-```
-<pre> \`\`\` todo/ ├── todo-backend/ └── (frontend files here) \`\`\` </pre>
-```
-
 
 ---
 
@@ -23,8 +18,5 @@ In a new terminal
 cd todo
 npm install
 npm run dev
-```
-```
-<pre> \`\`\` Access the App After starting both servers: Frontend: http://localhost:3000 Backend API: http://localhost:4000/api \`\`\` </pre>
 ```
 
